@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nedustore8-commits.github.io/yunwan-press-on-nails/sitemap.xml
+
